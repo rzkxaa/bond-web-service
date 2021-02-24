@@ -65,6 +65,13 @@ function bondJSON(data){
 //JSON processing data goes here
 	//toConsole(data);
 	//$("#output").text(JSON.stringify(data));
+
+    //clear the previous films
+    $("#films").html("");
+
+    //write web services title
+    $("#filmtitle").html("data.title");
+
 	$.each(data.films,function(i,item){
 
 		let text = `
@@ -74,6 +81,7 @@ function bondJSON(data){
                 <b>Bond</b>: ${item.Bond}<br />
                 <b>Box Office</b>: ${item.BoxOffice}<br />
                 <b>Writers</b>: ${item.Writers}<br />
+                <div class="pic"><img src="thumbnails/${item.image}" /></div>
 			`;
 		$("<div></div>").html(text).appendTo("#films");
 	});
@@ -87,15 +95,7 @@ function bondJSON(data){
 		<a href="box" class="category">Bond Films By International Box Office Totals</a>
 		<h3 id="filmtitle">Title Will Go Here</h3>
 		<div id="films">
-			<div>
-				<b>Title</b>: Title<br />
-				<b>Film #</b>: Film<br />
-				<b>Year</b>: Year<br />
-				<b>Bond</b>: Bond<br />
-				<b>Box Office</b>: BoxOffice<br />
-				<b>Writers</b>: Writers<br />
-				<div class="pic"><img src="thumbnails/dr-no.jpg" /></div>
-			</div>
+			
 		</div>
 		<div id="output">Results go here</div>
 	</body>
