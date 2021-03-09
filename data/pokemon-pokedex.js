@@ -181,4 +181,8 @@
 			"Image": "beedrill.png"
         }
 	]
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 07b058bafae4bdd1028111a76c030deea3ef4c30
