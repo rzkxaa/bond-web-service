@@ -1,10 +1,10 @@
 body {font-family:georgia;}
-#films {
+#pokemon {
 	max-width:600px;
 	margin:5px;
 	padding:2px;
 }
-#films > div {
+#pokemon > div {
 	padding:5px;
 	min-height:40px;
 	margin-bottom:5px;
@@ -15,7 +15,7 @@ body {font-family:georgia;}
 	position:relative; /* required to place #pic to right */
 }
 
-#films h3 {
+#pokemon h3 {
 	font-family:georgia;
 	padding:5px;
 	color:#fff;
@@ -23,7 +23,7 @@ body {font-family:georgia;}
 	margin:0;
 }
 
-.pic{
+.img{
 	position:absolute;
 	right:10px;
 	top:10px;
