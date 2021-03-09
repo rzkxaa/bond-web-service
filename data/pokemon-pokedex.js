@@ -7,9 +7,6 @@
             "Generation": 1,
             "PrimaryType": "Grass",
             "SecondaryType": "Poison",
-            "Category": "Seed Pokemon",
-            "Evolution": "Bulbasaur > Ivysaur > Venasaur",
-            "Legendary": "No",
 			"Image": "bulbasaur.png"
         },
 
@@ -19,9 +16,6 @@
             "Generation": 1,
             "PrimaryType": "Grass",
             "SecondaryType": "Poison",
-            "Category": "Seed Pokemon",
-            "Evolution": "Bulbasaur > Ivysaur > Venasaur",
-            "Legendary": "No",
 			"Image": "ivysaur.png"
         },
 
@@ -31,9 +25,6 @@
             "Generation": 1,
             "PrimaryType": "Grass",
             "SecondaryType": "Poison",
-            "Category": "Seed Pokemon",
-            "Evolution": "Bulbasaur > Ivysaur > Venasaur",
-            "Legendary": "No",
 			"Image": "venusaur.png"
         },
 
@@ -43,9 +34,6 @@
             "Generation": 1,
             "PrimaryType": "Fire",
             "SecondaryType": "N/A",
-            "Category": "Lizard Pokemon",
-            "Evolution": "Charmander > Charmeleon > Charizard",
-            "Legendary": "No",
 			"Image": "charmander.png"
         },
 
@@ -55,9 +43,6 @@
             "Generation": 1,
             "PrimaryType": "Fire",
             "SecondaryType": "N/A",
-            "Category": "Lizard Pokemon",
-            "Evolution": "Charmander > Charmeleon > Charizard",
-            "Legendary": "No",
 			"Image": "charmeleon.png"
         },
 
@@ -67,9 +52,6 @@
             "Generation": 1,
             "PrimaryType": "Fire",
             "SecondaryType": "Flying",
-            "Category": "Lizard Pokemon",
-            "Evolution": "Charmander > Charmeleon > Charizard",
-            "Legendary": "No",
 			"Image": "charizard.png"
         },
 
@@ -79,9 +61,6 @@
             "Generation": 1,
             "PrimaryType": "Water",
             "SecondaryType": "N/A",
-            "Category": "Tiny Turtle Pokemon",
-            "Evolution": "Squirtle > Wartortle > Blastoise",
-            "Legendary": "No",
 			"Image": "squirtle.png"
         },
 
@@ -91,9 +70,6 @@
             "Generation": 1,
             "PrimaryType": "Water",
             "SecondaryType": "N/A",
-            "Category": "Turtle Pokemon",
-            "Evolution": "Squirtle > Wartortle > Blastoise",
-            "Legendary": "No",
 			"Image": "wartortle.png"
         },
 
@@ -103,9 +79,6 @@
             "Generation": 1,
             "PrimaryType": "Water",
             "SecondaryType": "N/A",
-            "Category": "Shellfish Pokemon",
-            "Evolution": "Squirtle > Wartortle > Blastoise",
-            "Legendary": "No",
 			"Image": "blastoise.png"
         },
 
@@ -115,9 +88,6 @@
             "Generation": 1,
             "PrimaryType": "Bug",
             "SecondaryType": "N/A",
-            "Category": "Worm Pokemon",
-            "Evolution": "Caterpie > Metapod > Butterfree",
-            "Legendary": "No",
 			"Image": "caterpie.png"
         },
 
@@ -127,9 +97,6 @@
             "Generation": 1,
             "PrimaryType": "Bug",
             "SecondaryType": "N/A",
-            "Category": "Cocoon Pokemon",
-            "Evolution": "Caterpie > Metapod > Butterfree",
-            "Legendary": "No",
 			"Image": "metapod.png"
         },
 
@@ -139,9 +106,6 @@
             "Generation": 1,
             "PrimaryType": "Bug",
             "SecondaryType": "Flying",
-            "Category": "Butterfly Pokemon",
-            "Evolution": "Caterpie > Metapod > Butterfree",
-            "Legendary": "No",
 			"Image": "butterfree.png"
         },
 
@@ -151,9 +115,6 @@
             "Generation": 1,
             "PrimaryType": "Bug",
             "SecondaryType": "Poison",
-            "Category": "Hairy Bug Pokemon",
-            "Evolution": "Weedle > Kakuna > Beedrill",
-            "Legendary": "No",
 			"Image": "weedle.png"
         },
 
@@ -163,9 +124,6 @@
             "Generation": 1,
             "PrimaryType": "Bug",
             "SecondaryType": "Poison",
-            "Category": "Cocoon Pokemon",
-            "Evolution": "Weedle > Kakuna > Beedrill",
-            "Legendary": "No",
 			"Image": "kakuna.png"
         },
 
@@ -175,14 +133,7 @@
             "Generation": 1,
             "PrimaryType": "Bug",
             "SecondaryType": "Poison",
-            "Category": "Poison Bee Pokemon",
-            "Evolution": "Weedle > Kakuna > Beedrill",
-            "Legendary": "No",
 			"Image": "beedrill.png"
         }
 	]
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 07b058bafae4bdd1028111a76c030deea3ef4c30
